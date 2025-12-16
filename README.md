@@ -1,4 +1,4 @@
-https://github.com/janemirallesrojo18-ai/Myteachersdaymessagecard.git
+https://github.com/janemirallesrojo18-ai/Myteachersdaymessagecard
 
 Project Structure
 📦 teachers-day-card
